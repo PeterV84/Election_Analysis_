@@ -1,7 +1,7 @@
 # Election_Analysis_
 Python and Visual Studio Code Project
 
-## Project OVerview
+## Project Overview
 A Colorado board of elections employee has given you the following tasks to complete the the election audit of a recent local congressional election.
 
 1.Calculate the total number of votes cast
