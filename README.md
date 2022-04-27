@@ -16,20 +16,32 @@ A Colorado board of elections employee has given you the following tasks to comp
 
 ## Resources
 -Data Source: election_results.csv
+
 -Software: Python 3.6.1, Visual Studio Code. 1.38.1
 
-##Summary
+
+## Summary
 The analysis of the election show:
+
 -The candidates were:
+
   -Charles Casper Stockham
+  
   -Diana DeGette
+  
   -Raymon Anthony Doane
+  
 -The candidate results were:
+
   -Charles Casper Stockham: 23.0%(85,213)
+  
   -Diana DeGette: 73.8%(272,892)
+  
   -Raymon Anthony Doane: 3.1%(11,606)
+  
 -The Winner of the election was:
-  -Diana DeGette: 73.8%(272,892)
+
+  # -Diana DeGette: 73.8%(272,892)
   
   ## Challenge Overview
   As the first step after struggling with VBA programming, the Python application along with Visual Studio Code was a less confusing task. The biggest issue was debugging for VBA but for Python it was more the alignment of the tabs. The equations and coding seeemed to be more straightforward. Having Visual Studio Code translate and give pointers to the code as your writing is super helpful and requires less a method of trying and failing and more singling out the issue.
